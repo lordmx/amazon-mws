@@ -1,5 +1,5 @@
 {
-    "name": "tilleuls/amazon-mws",
+    "name": "lordmx/amazon-mws",
     "type": "library",
     "description": "Amazon Marketplace Web Service PHP Client Library",
     "keywords": ["amazon", "mws", "client", "api", "library"],
